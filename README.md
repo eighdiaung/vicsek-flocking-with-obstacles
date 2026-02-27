@@ -1,4 +1,4 @@
-# Vicsek Flocking with Obstacles
+# Vicsek Flocking with and without Obstacles
 
 Simulation of the Vicsek model with and without obstacle avoidance.
 
