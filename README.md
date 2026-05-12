@@ -39,10 +39,18 @@ If you use this code or find it useful in your research, you can read more about
 https://doi.org/10.1103/PhysRevE.110.L062102
 
 ```bibtex
-@article{aung2024local,
-  title={Local interactions in active matter are reinforced by spatial structure},
-  author={Aung, Eighdi and Abaid, Nicole and McClure, James E},
-  journal={arXiv preprint arXiv:2402.04996},
-  year={2024}
+@article{PhysRevE.110.L062102,
+  title = {Local interactions in active matter are reinforced by spatial structure},
+  author = {Aung, Eighdi and McClure, James E. and Abaid, Nicole},
+  journal = {Phys. Rev. E},
+  volume = {110},
+  issue = {6},
+  pages = {L062102},
+  numpages = {5},
+  year = {2024},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.110.L062102},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.110.L062102}
 }
 ```
