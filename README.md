@@ -16,4 +16,4 @@ vicsek_obstacles.py simulates the Vicsek model with obstacles
 
 ### Free-space flocking
 
-![Free-space flocking](media/free_space.gif)
+![Free-space flocking](media/free_space.GIF)
