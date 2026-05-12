@@ -8,6 +8,6 @@ pip install -r requirements.txt
 
 ## Run
 
-python src/vicsek_no_obstacles.py simulates the Vicsek model without obstacles
+vicsek_no_obstacles.py simulates the Vicsek model without obstacles
 
-python src/vicsek_obstacles.py simulates the Vicsek model with obstacles
+vicsek_obstacles.py simulates the Vicsek model with obstacles
