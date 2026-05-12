@@ -11,3 +11,9 @@ pip install -r requirements.txt
 vicsek_no_obstacles.py simulates the Vicsek model without obstacles
 
 vicsek_obstacles.py simulates the Vicsek model with obstacles
+
+## Simulation Examples
+
+### Free-space flocking
+
+![Free-space flocking](media/free_space.gif)
