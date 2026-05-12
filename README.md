@@ -34,7 +34,9 @@ vicsek_obstacles.py simulates the Vicsek model with obstacles
 
 ## Citation
 
-If you use this code or find it useful in your research, you can read more about this at: https://doi.org/10.1103/PhysRevE.110.L062102
+If you use this code or find it useful in your research, you can read more about this at: 
+
+https://doi.org/10.1103/PhysRevE.110.L062102
 
 ```bibtex
 @article{aung2024local,
