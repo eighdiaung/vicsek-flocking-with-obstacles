@@ -31,3 +31,16 @@ vicsek_obstacles.py simulates the Vicsek model with obstacles
 </td>
 </tr>
 </table>
+
+## Citation
+
+If you use this code or find it useful in your research, you can read more about this at: https://doi.org/10.1103/PhysRevE.110.L062102
+
+```bibtex
+@article{aung2024local,
+  title={Local interactions in active matter are reinforced by spatial structure},
+  author={Aung, Eighdi and Abaid, Nicole and McClure, James E},
+  journal={arXiv preprint arXiv:2402.04996},
+  year={2024}
+}
+```
