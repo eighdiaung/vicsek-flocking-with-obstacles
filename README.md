@@ -1,6 +1,6 @@
 # Vicsek Flocking with and without Obstacles
 
-Simulation of the Vicsek model with and without obstacle avoidance.
+Simulation study of decentralized multi-agent alignment motion under spatial constraints using the Vicsek model with obstacle-aware interactions.
 
 ## Installation
 
